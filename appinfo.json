@@ -1,0 +1,80 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Harrison Fang",
+    "longName": "Slowpoke",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/slowpoke_ring00.png",
+                "name": "FRAME_00",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring01.png",
+                "name": "FRAME_01",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring02.png",
+                "name": "FRAME_02",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring03.png",
+                "name": "FRAME_03",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring04.png",
+                "name": "FRAME_04",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring05.png",
+                "name": "FRAME_05",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring06.png",
+                "name": "FRAME_06",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring07.png",
+                "name": "FRAME_07",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring08.png",
+                "name": "FRAME_08",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring09.png",
+                "name": "FRAME_09",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring10.png",
+                "name": "FRAME_10",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/slowpoke_ring11.png",
+                "name": "FRAME_11",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "shortName": "Slowpoke",
+    "uuid": "6840b207-01ab-4ca7-83e5-09b8f9865784",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
